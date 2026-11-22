@@ -1,0 +1,7 @@
+{
+  "name": "gojo-vs-sukuna-cinematic",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node server.js", "dev": "npx serve ." },
+  "dependencies": { "express": "^4.21.1" }
+}
